@@ -1,3 +1,4 @@
 .juliahistory
 data/
+*.mem
 *.dat
